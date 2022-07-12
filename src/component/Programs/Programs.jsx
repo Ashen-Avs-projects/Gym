@@ -18,8 +18,8 @@ const Programs = () => {
             {programsData.map((program)=>(
                 <div className="categories">
                     {program.image}
-                    <span>program.heading</span>
-                    <span>program.details</span>
+                    <span>{program.heading}</span>
+                    <span>{program.details}</span>
                     <div className="join-now">
                         <span>Join Now</span>
                         <img src={RightArrow} alt="" />
