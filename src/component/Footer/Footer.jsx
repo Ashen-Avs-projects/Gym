@@ -17,6 +17,7 @@ const Footer = () => {
             </div>
             <div className="logo-f">
                 <img src={Logo} alt="" />
+                <span>@Created By Ashen A V S</span>
             </div>
         </div>
 

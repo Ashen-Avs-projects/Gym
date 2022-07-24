@@ -31,6 +31,12 @@
     width: 10rem;
 }
 
+.logo-f>span{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+}
 .blur-f-1{
     bottom: 0;
     right: 15%;
